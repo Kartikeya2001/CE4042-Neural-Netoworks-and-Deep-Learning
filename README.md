@@ -11,7 +11,7 @@
 
 ## Part B: Regression Problem
 
-• The aim is to predicting housing prices in Singapore from related features (#9)
+• The aim is to predict housing prices in Singapore from related features (#9)
 
 • Numeric features: dist_to_nearest_stn, dist_to_dhoby, degree_centrality, eigenvector_centrality, remaining_lease_years, floor_area_sqm
 

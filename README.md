@@ -21,5 +21,5 @@
 
 • Used an embedding layer after the one-hot embeddings for categorical variables inorder to improve prediction
 
-• Implemented Recursive Feature Elimination (RFE) from sratch to remove irrelevant features one-by-one
+• Implemented Recursive Feature Extraction (RFE) from sratch to remove irrelevant features one-by-one
 

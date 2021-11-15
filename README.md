@@ -1,5 +1,4 @@
 # CE-CZ4042-Neural-Networks-and-Deep-Learning
-## Repository for NTU Course - CE/CZ 4042 - Neural Networks and Deep Learning
 
 # Group Project
 > In recent times, social networking has become a huge part of our day-to-day activities. From WhatsApp to Instagram, we always stay connected and updated about the people whom we care about. One such social networking service is Twitter that has connected people from different parts of the world and supported numerous businesses. On this platform, users post and interact with messages known as “tweets”. Users are exposed to tweets that are of various categories such as excited, angry, sad, happy, etc. Thus, our team felt the need to identify the sentiment of a given tweet to help the user identify the type of content they are being exposed to on a daily basis. Hence, we decided to use the Long Short Term Memory networks to fulfill our mission. 
